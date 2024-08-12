@@ -1,0 +1,136 @@
+[2024-08-12 01:36:09 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-12 01:36:10 : INFO] - A total of 13 tasks of type smush found and will be processed in this iteration 
+[2024-08-12 01:36:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-08-12 01:36:10 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-08-12 01:36:10 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-08-12 01:36:10 : INFO] - Re_Smush_It_Task - Attachment ID : 716, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:36:10 : INFO] - File: hero.jpg, Compression quality: 92 
+[2024-08-12 01:36:16 : INFO] - Backing up the original image - 2024/08/hero-updraft-pre-smush-original.jpg 
+[2024-08-12 01:36:34 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/hero.jpg.The file was compressed from 520.00 KB to 440.59 KB, saving 15.27 percent, using WP-Optimize 
+[2024-08-12 01:36:34 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-08-12 01:36:34 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-08-12 01:36:34 : INFO] - Re_Smush_It_Task - Attachment ID : 718, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:36:34 : INFO] - File: bottiglia-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:36:41 : INFO] - Backing up the original image - 2024/08/bottiglia-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:37:05 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/bottiglia-scaled.jpg.The file was compressed from 695.47 KB to 551.30 KB, saving 20.73 percent, using WP-Optimize 
+[2024-08-12 01:37:05 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-08-12 01:37:05 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-08-12 01:37:05 : INFO] - Re_Smush_It_Task - Attachment ID : 719, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:37:05 : INFO] - File: surprise-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:37:10 : INFO] - A total of 11 tasks of type smush found and will be processed in this iteration 
+[2024-08-12 01:37:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-12 01:37:10 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-12 01:37:10 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-12 01:37:10 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-08-12 01:37:13 : INFO] - Backing up the original image - 2024/08/surprise-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:37:36 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/surprise-scaled.jpg.The file was compressed from 735.24 KB to 580.30 KB, saving 21.07 percent, using WP-Optimize 
+[2024-08-12 01:37:36 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-08-12 01:37:36 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-08-12 01:37:36 : INFO] - Re_Smush_It_Task - Attachment ID : 720, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:37:36 : INFO] - File: bimba-che-ride-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:37:44 : INFO] - Backing up the original image - 2024/08/bimba-che-ride-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:38:06 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/bimba-che-ride-scaled.jpg.The file was compressed from 714.05 KB to 566.33 KB, saving 20.69 percent, using WP-Optimize 
+[2024-08-12 01:38:06 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-08-12 01:38:06 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-08-12 01:38:06 : INFO] - Re_Smush_It_Task - Attachment ID : 721, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:38:06 : INFO] - File: bacchetta-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:38:11 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2024-08-12 01:38:11 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-12 01:38:11 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-12 01:38:11 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-12 01:38:11 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-08-12 01:38:13 : INFO] - Backing up the original image - 2024/08/bacchetta-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:38:36 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/bacchetta-scaled.jpg.The file was compressed from 731.13 KB to 573.54 KB, saving 21.55 percent, using WP-Optimize 
+[2024-08-12 01:38:36 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-08-12 01:38:36 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-08-12 01:38:36 : INFO] - Re_Smush_It_Task - Attachment ID : 722, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:38:36 : INFO] - File: mostro-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:38:43 : INFO] - Backing up the original image - 2024/08/mostro-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:39:08 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/mostro-scaled.jpg.The file was compressed from 959.20 KB to 742.31 KB, saving 22.61 percent, using WP-Optimize 
+[2024-08-12 01:39:08 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-08-12 01:39:08 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-08-12 01:39:08 : INFO] - Re_Smush_It_Task - Attachment ID : 723, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:39:08 : INFO] - File: sponges-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:39:11 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2024-08-12 01:39:11 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-12 01:39:11 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-12 01:39:11 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-12 01:39:11 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-08-12 01:39:15 : INFO] - Backing up the original image - 2024/08/sponges-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:39:38 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/sponges-scaled.jpg.The file was compressed from 864.17 KB to 680.85 KB, saving 21.21 percent, using WP-Optimize 
+[2024-08-12 01:39:38 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-08-12 01:39:38 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-08-12 01:39:38 : INFO] - Re_Smush_It_Task - Attachment ID : 724, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:39:38 : INFO] - File: GALA8060-Enhanced-NR-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:39:44 : INFO] - Backing up the original image - 2024/08/GALA8060-Enhanced-NR-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:40:10 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/GALA8060-Enhanced-NR-scaled.jpg.The file was compressed from 509.22 KB to 459.08 KB, saving 9.85 percent, using WP-Optimize 
+[2024-08-12 01:40:10 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-08-12 01:40:10 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-08-12 01:40:10 : INFO] - Re_Smush_It_Task - Attachment ID : 725, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:40:10 : INFO] - File: TheGreatArmando-3-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:40:12 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2024-08-12 01:40:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-12 01:40:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-12 01:40:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-12 01:40:12 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-08-12 01:40:17 : INFO] - Backing up the original image - 2024/08/TheGreatArmando-3-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:40:42 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/TheGreatArmando-3-scaled.jpg.The file was compressed from 465.97 KB to 436.34 KB, saving 6.36 percent, using WP-Optimize 
+[2024-08-12 01:40:42 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-08-12 01:40:42 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-08-12 01:40:42 : INFO] - Re_Smush_It_Task - Attachment ID : 727, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:40:42 : INFO] - File: square.jpg, Compression quality: 92 
+[2024-08-12 01:40:46 : INFO] - Backing up the original image - 2024/08/square-updraft-pre-smush-original.jpg 
+[2024-08-12 01:40:59 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/square.jpg.The file was compressed from 228.66 KB to 176.17 KB, saving 22.96 percent, using WP-Optimize 
+[2024-08-12 01:40:59 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-08-12 01:40:59 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-08-12 01:40:59 : INFO] - Re_Smush_It_Task - Attachment ID : 734, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:40:59 : INFO] - File: bimba-scaled.jpg, Compression quality: 92 
+[2024-08-12 01:41:07 : INFO] - Backing up the original image - 2024/08/bimba-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 01:41:12 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-08-12 01:41:12 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2024-08-12 01:41:15 : INFO] - Task with ID 11 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2024-08-12 01:41:15 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-08-12 01:41:15 : INFO] - Re_Smush_It_Task - Attachment ID : 735, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:41:15 : INFO] - File: purple.png, Compression quality: 92 
+[2024-08-12 01:41:19 : INFO] - Backing up the original image - 2024/08/purple-updraft-pre-smush-original.png 
+[2024-08-12 01:41:26 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/bimba-scaled.jpg.The file was compressed from 881.03 KB to 702.78 KB, saving 20.23 percent, using WP-Optimize 
+[2024-08-12 01:41:26 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-08-12 01:41:27 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/purple.png.The file was compressed from 720.41 KB to 212.13 KB, saving 70.55 percent, using WP-Optimize 
+[2024-08-12 01:41:27 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-08-12 01:41:27 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-08-12 01:41:27 : INFO] - Re_Smush_It_Task - Attachment ID : 753, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:41:27 : INFO] - File: logo-1.png, Compression quality: 92 
+[2024-08-12 01:41:27 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-08-12 01:41:27 : INFO] - Re_Smush_It_Task - Attachment ID : 735, Started on : August 12, 2024 01:36:10 
+[2024-08-12 01:41:27 : INFO] - File: purple.png, Compression quality: 92 
+[2024-08-12 01:41:28 : INFO] - Backing up the original image - 2024/08/logo-1-updraft-pre-smush-original.png 
+[2024-08-12 01:41:31 : INFO] - Backing up the original image - 2024/08/purple-updraft-pre-smush-original.png 
+[2024-08-12 01:41:31 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/logo-1.png.The file was compressed from 47.13 KB to 23.53 KB, saving 50.07 percent, using WP-Optimize 
+[2024-08-12 01:41:31 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-08-12 01:41:31 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-08-12 01:41:31 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2024-08-12 01:41:31 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-08-12 01:41:31 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2024-08-12 01:41:36 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/purple.png.The file was compressed from 212.13 KB to 212.12 KB, saving 0.01 percent, using WP-Optimize 
+[2024-08-12 01:41:36 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-08-12 01:41:36 : INFO] - The task with id : 13, and type 'smush' seems to have been deleted from the database. 
+[2024-08-12 01:41:36 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-08-12 01:41:36 : INFO] - Successfully processed the queue (smush). 13 tasks were processed out of 13. 
+[2024-08-12 01:41:36 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-08-12 01:41:36 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-08-12 03:41:38 : INFO] - Pruning the smush log file 
+[2024-08-12 06:07:54 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-12 06:07:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-08-12 06:07:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-08-12 06:07:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-08-12 06:07:54 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-08-12 06:07:54 : INFO] - Re_Smush_It_Task - Attachment ID : 733, Started on : August 12, 2024 06:07:54 
+[2024-08-12 06:07:54 : INFO] - File: rope-scaled.jpg, Compression quality: 92 
+[2024-08-12 06:08:02 : INFO] - Backing up the original image - 2024/08/rope-scaled-updraft-pre-smush-original.jpg 
+[2024-08-12 06:08:21 : INFO] - Successfully optimized the image - /Users/davide/Documents/www/thegreatarmando.com/wp/wp-content/uploads/2024/08/rope-scaled.jpg.The file was compressed from 894.54 KB to 709.26 KB, saving 20.71 percent, using WP-Optimize 
+[2024-08-12 06:08:21 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-08-12 06:08:21 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-08-12 06:08:21 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-08-12 06:08:21 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-08-12 06:08:21 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-08-12 08:08:24 : INFO] - Pruning the smush log file 
